@@ -1,0 +1,28 @@
+{
+  "name": "zipt",
+  "version": "0.0.1",
+  "description": "zip/unzip for typescript ref zlibjs. no dependency, no native modue",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadfishDT/zipt.git"
+  },
+  "keywords": [
+    "zip",
+    "unzip",
+    "zlibjs",
+    "base",
+    "no",
+    "dep",
+    "typescript"
+  ],
+  "author": "MadfishDT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadfishDT/zipt/issues"
+  },
+  "homepage": "https://github.com/MadfishDT/zipt#readme"
+}
